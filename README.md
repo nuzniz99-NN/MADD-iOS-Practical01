@@ -79,8 +79,8 @@ Before beginning the programming exercises:
 If you are working on a Mac with Git, copy your assignment repository's clone URL from GitHub. In Terminal, replace the example URL below with that URL:
 
 ```bash
-git clone https://github.com/YOUR-CLASSROOM/YOUR-ASSIGNMENT-REPOSITORY.git SE4041-Practical-01
-cd SE4041-Practical-01
+git clone [https://github.com/YOUR-CLASSROOM/YOUR-ASSIGNMENT-REPOSITORY.git SE4041-Practical-01
+cd SE4041-Practical-01](https://github.com/nuzniz99-NN/MADD-iOS-Practical01.git)
 ```
 
 If you already cloned the repository, open its folder instead of cloning it again. Keep all submission files inside that folder.
