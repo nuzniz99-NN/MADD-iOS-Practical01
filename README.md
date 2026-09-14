@@ -2,8 +2,7 @@
 ## Practical 01 – Swift Fundamentals
 
 **Duration:** 2 Hours  
-**Module:** SE4041 – Mobile Application Design & Development  
-**Practical Type:** Self-Guided  
+**Module:** SE4041 – Mobile Application Design & Development   
 **Language:** Swift
 
 ---
