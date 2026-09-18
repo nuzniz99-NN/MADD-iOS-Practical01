@@ -11,7 +11,7 @@
 
 In this practical, you will begin programming with **Swift**, the programming language used throughout this module for native iOS application development.
 
-This practical focuses on the fundamental concepts introduced in **Lecture 02 – Swift Fundamentals I**, including constants and variables, Swift data types, type inference, type conversion, operators, strings, string interpolation, and optionals.
+This practical focuses on the fundamental concepts introduced in Lecture, including constants and variables, Swift data types, type inference, type conversion, operators, strings, string interpolation, and optional.
 
 You will complete a series of guided exercises and finish the practical with an individual programming task that combines the concepts you have learned.
 
